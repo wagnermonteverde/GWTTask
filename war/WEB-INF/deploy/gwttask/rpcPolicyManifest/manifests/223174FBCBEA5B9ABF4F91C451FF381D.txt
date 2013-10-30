@@ -1,0 +1,2 @@
+serviceClass: br.com.task.client.GreetingService
+path: 461CE35921CE53104E108262F97B7BB6.gwt.rpc
